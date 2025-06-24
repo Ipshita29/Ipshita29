@@ -3,7 +3,6 @@
 🎓 2nd-year student at Newton School of Technology  
 💻 Learning and building with the **MERN stack**, **JavaScript**, and **Python DSA**  
 🌐 Exploring full-stack development with a focus on clean UI and real-world functionality  
-🛠️ Working on mini projects to strengthen development skills and creativity  
 🎨 Interested in **UI/UX**, frontend development, and meaningful web experiences  
 📂 Tech I'm using: `MongoDB`, `Express`, `React`, `Node.js`, `HTML`, `CSS`, `JavaScript`, `Python`
 
