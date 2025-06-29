@@ -10,10 +10,6 @@
 📫 Reach me via **email**  
 ☕ *Fun fact:* my code works best after a cup of coffee.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ipshita29&color=893D7B&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ### 🎨 Languages & Tools
