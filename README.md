@@ -1,8 +1,11 @@
 ## 🌸 Hi, I’m Ipshita (@Ipshita29)
 
 🎓 2nd-year student at Newton School of Technology.
+
 💻 Learning and building with the **MERN stack**, **JavaScript**, and **Python DSA**.
+
 🌐 Exploring full-stack development with a focus on clean UI and real-world functionality.
+
 🎨 Passionate about **UI/UX**, frontend creativity, and building meaningful web experiences.
 
 💞️ Open to collaboration and growth  
