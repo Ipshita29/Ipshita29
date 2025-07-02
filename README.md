@@ -9,7 +9,9 @@
 🎨 Passionate about **UI/UX**, frontend creativity, and building meaningful web experiences.
 
 💞️ Open to collaboration and growth  
+
 📫 Reach me via **email**  
+
 ☕ *Fun fact:* my code works best after a cup of coffee.
 
 ---
