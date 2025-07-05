@@ -1,20 +1,25 @@
-##🌸 Hi, I’m Ipshita (@Ipshita29)
-🎓 A 2nd-year student from India, studying at Newton School of Technology.
-💻 On a mission to craft beautiful and functional products with MERN Stack, JavaScript, and Python DSA.
-🎨 A creator at heart — passionate about UI/UX, frontend creativity, and expressing aesthetics through code.
+## 🌸 Hi, I’m Ipshita (@Ipshita29)
+
+🎓 A 2nd-year student from **India**, studying at **Newton School of Technology**.  
+💻 On a mission to craft beautiful and functional products with **MERN Stack**, **JavaScript**, and **Python DSA**.  
+🎨 A creator at heart — passionate about **UI/UX**, **frontend creativity**, and expressing aesthetics through code.  
 🌐 Building web apps with clean design, meaningful purpose, and real-world impact.
 
 💞️ Currently:
+- Collaborating on full-stack projects with friends and community
+- Participating in **hackathons, 100 Days of Code**, and contributing on **GitHub**
+- Learning the art of shipping fast and learning even faster 🚀
 
-Collaborating on full-stack projects with friends and community
+📫 Let’s connect → [**Email me**](ipshita2908@gmail.com)  
+☕ *Fun fact:* My code runs better after a cup of coffee.
 
-Participating in hackathons, 100 Days of Code, and contributing on GitHub
+---
 
-Learning the art of shipping fast and learning even faster 🚀
+### 🚀 My Interests
 
-📫 Let’s connect → Email me
-
-☕ *Fun fact:* my code works best after a cup of coffee.
+- 🖌 Designing minimal, aesthetic UIs using **Figma + Frontend frameworks**
+- 📚 Solving real-world DSA problems in **Python**
+- 🌍 Building websites that tell stories.
 
 ---
 
@@ -29,7 +34,19 @@ Learning the art of shipping fast and learning even faster 🚀
   <img src="https://img.shields.io/badge/Node.js-893D7B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-682C63?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4A1C4F?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-B93C88?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-FFB3C6?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/GitHub-6E3B70?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+### 🌱 Currently Learning
+
+- 🔄 Advanced JavaScript & React concepts
+- 🧩 Supabase, MongoDB Atlas & API design for scalable apps
+- 💅 UI/UX practices and accessibility with Tailwind CSS
 
 ---
 
@@ -43,8 +60,10 @@ Learning the art of shipping fast and learning even faster 🚀
 
 ---
 
+### 💡 Quote That Keeps Me Going
+
 <p align="center">
-  💫 “Keep building. Keep learning. Keep showing up.”  
+  💫 “Keep building. Keep learning. Keep showing up.”
 </p>
 
 
