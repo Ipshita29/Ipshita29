@@ -10,7 +10,7 @@
 - Participating in **hackathons, 100 Days of Code**, and contributing on **GitHub**
 - Learning the art of shipping fast and learning even faster 🚀
 
-📫 Let’s connect → [**Email me**](ipshita2908@gmail.com)  
+📫 Let’s connect → [**Email me**](mailto:ipshita2908@gmail.com)  
 ☕ *Fun fact:* My code runs better after a cup of coffee.
 
 ---
