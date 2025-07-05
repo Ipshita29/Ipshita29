@@ -7,7 +7,6 @@
 
 💞️ Currently:
 - Collaborating on full-stack projects with friends and community
-- Participating in **hackathons, 100 Days of Code**, and contributing on **GitHub**
 - Learning the art of shipping fast and learning even faster 🚀
 
 📫 Let’s connect → [**Email me**](mailto:ipshita2908@gmail.com)  
