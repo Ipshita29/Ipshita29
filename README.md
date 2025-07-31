@@ -85,8 +85,6 @@
 
 ---
 
-### 💡 Quote That Keeps Me Going
-
 <p align="center">
   💫 “Keep building. Keep learning. Keep showing up.”
 </p>
