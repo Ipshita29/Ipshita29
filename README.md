@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/HTML5-BD768D?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-BD768D?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-A65482?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-9B528B?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ---
@@ -45,13 +44,17 @@
 </p>
 
 ---
+#### 🛠️ Backend & Databases
+<p align="center"> 
+  <img src="https://img.shields.io/badge/MongoDB-4A1C4F?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
+</p>
 
+---
 #### 🎨 Design & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-BD76A6?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-9C6FAF?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Photoshop-682C63?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe Premiere-4A1C4F?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
 </p>
 
 ---
@@ -62,7 +65,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-893D7B?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Google Cloud-682C63?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
 
 ---
