@@ -68,14 +68,6 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- 🔄 Advanced JavaScript & React concepts
-- 🧩 Supabase, MongoDB Atlas & API design for scalable apps
-- 💅 UI/UX practices and accessibility with Tailwind CSS
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
