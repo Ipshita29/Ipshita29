@@ -68,8 +68,6 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ipshita29&theme=rose_pine&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <br />
-  <!-- Optional custom highest streak badge -->
-  <img src="https://img.shields.io/badge/Highest%20Streak-🔥?style=for-the-badge&logo=github" alt="Highest Streak" />
 </p>
 
 ---
