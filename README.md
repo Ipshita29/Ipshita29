@@ -3,9 +3,6 @@
 🎓 A student from **India**, studying at **Newton School of Technology**  
 💻 Crafting beautiful and functional products using **MERN Stack**, **JavaScript**, **Python DSA** and **React Native**
 
-💞️ **Currently**:
-- Collaborating on full-stack projects with friends and community   
-
 📫 Let’s connect → [**Email me**](mailto:ipshita2908@gmail.com)  
 ☕ *Fun fact:* My code runs better after a cup of coffee  
 
