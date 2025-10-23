@@ -1,4 +1,4 @@
-## Ipshita (@Ipshita29)
+## Hi, I'm Ipshita (@Ipshita29)!
 
 Student Developer from **India** | **Newton School of Technology**
 
@@ -6,22 +6,46 @@ Student Developer from **India** | **Newton School of Technology**
 
 ### 💻 Focus: Full-Stack & Mobile Development
 
-Passionate about building complete, aesthetic web and mobile solutions. I specialize in:
+I bring ideas to life using the **MERN Stack** and building cross-platform apps with **React Native**. I have hands-on experience developing projects that feature robust backend architecture and dynamic, user-centric interfaces.
 
-* **Full-Stack:** The **MERN Stack** (MongoDB, Express.js, **React**, Node.js).
-* **Mobile:** Cross-platform apps with **React Native**.
-* **Experience:** I have built several projects utilizing the MERN stack for robust backend functionality and React/React Native for dynamic, user-centric interfaces.
-* **Design Philosophy:** Minimal, user-centric UI/UX design (Frontend frameworks + Canva/Figma) to create websites that tell a compelling story.
+* **Expertise:** Building full-stack applications with the **MERN** stack, and developing mobile solutions with **React Native**.
+* **Aesthetic:** Designing minimal, user-centric UIs that focus on telling a compelling story (Frontend frameworks + Design tools).
 
 ---
 
-### 🛠️ Key Skills
+### 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Core & DSA** | JavaScript, Python, HTML5, CSS3 |
-| **Frameworks** | React, **React Native**, Node.js, Express.js, Tailwind CSS |
-| **Data & Tools** | MongoDB, MySQL, Git, GitHub, Vercel, Figma |
+#### 👩‍💻 Core Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-A36F99?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-A65482?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-BD768D?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-BD768D?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### ⚙️ MERN & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/React-893D7B?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React Native-682C63?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-893D7B?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-682C63?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-A5528C?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+#### 💾 Data & Auth
+<p align="center"> 
+  <img src="https://img.shields.io/badge/MongoDB-4A1C4F?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+</p>
+
+#### 🤖 AI & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-BD76A6?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-9C6FAF?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ---
 
@@ -34,9 +58,8 @@ Passionate about building complete, aesthetic web and mobile solutions. I specia
 ---
 
 <p align="center">
-  📫 Let's connect and build something great! &rarr; [**Email me**](mailto:ipshita2908@gmail.com)
+  📫 Ready to collaborate? Let's connect &rarr; [**Email me**](mailto:ipshita2908@gmail.com)
 </p>
-
 
 
 <!---
