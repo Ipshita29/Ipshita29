@@ -8,9 +8,6 @@ Student Developer from **India** | **Newton School of Technology**
 
 I bring ideas to life using the **MERN Stack** and building cross-platform apps with **React Native**. I have hands-on experience developing projects that feature robust backend architecture and dynamic, user-centric interfaces.
 
-* **Expertise:** Building full-stack applications with the **MERN** stack, and developing mobile solutions with **React Native**.
-* **Aesthetic:** Designing minimal, user-centric UIs that focus on telling a compelling story (Frontend frameworks + Design tools).
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -57,9 +54,6 @@ I bring ideas to life using the **MERN Stack** and building cross-platform apps 
 
 ---
 
-<p align="center">
-  📫 Ready to collaborate? Let's connect &rarr; [**Email me**](mailto:ipshita2908@gmail.com)
-</p>
 
 
 <!---
