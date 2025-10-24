@@ -66,13 +66,6 @@ I bring ideas to life using the **MERN Stack** and building cross-platform apps 
 
 ---
 
-### 📅 Current GitHub Activity
-
-- **Total Contributions (Last Year):** ![GitHub Total Contributions](https://img.shields.io/badge/Contributions-{{YOUR_TOTAL}}-ff69b4)
-- **Longest Streak:** ![GitHub Streak](https://img.shields.io/badge/Longest_Streak-{{LONGEST_STREAK}}-8A2BE2)
-- **Current Streak:** ![GitHub Current Streak](https://img.shields.io/badge/Current_Streak-{{CURRENT_STREAK}}-4B0082)
-
----
 
 
 
