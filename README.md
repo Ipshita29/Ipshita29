@@ -4,12 +4,6 @@ Student Developer from **India** | **Newton School of Technology**
 
 ---
 
-### 💻 Focus: Full-Stack & Mobile Development
-
-I bring ideas to life using the **MERN Stack** and building cross-platform apps with **React Native**. I have hands-on experience developing projects that feature robust backend architecture and dynamic, user-centric interfaces.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 #### 👩‍💻 Core Languages
