@@ -1,4 +1,4 @@
-## Hi, I'm Ipshita (@Ipshita29)!
+## Hi, I'm Ipshita !
 
 Student Developer from **India** | **Newton School of Technology**
 
