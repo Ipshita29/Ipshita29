@@ -60,12 +60,7 @@ I bring ideas to life using the **MERN Stack** and building cross-platform apps 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ipshita29&theme=rose_pine&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Ipshita29/Ipshita29/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
-</p>
-
 ---
-
 
 
 
