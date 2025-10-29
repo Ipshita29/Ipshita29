@@ -50,8 +50,7 @@
 ### Projects & Goals
 
 🌱 Currently building **creative web apps** and **interactive UIs**  
-🎯 Goal for 2025: Contribute to **Open Source** & land a **tech internship**  
-📘 Learning Next.js & full-stack best practices  
+🎯 Goal for 2025: Contribute to **Open Source** 
 
 ---
 
@@ -67,22 +66,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipshita29&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
-
----
-
-### Let's Connect
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ipshita-patel-03a08833a/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-A36F99?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ipshita2908@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BD76A6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="[https://portfolio-link.com](https://dreamy-panda-4a90bf.netlify.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-A65482?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
