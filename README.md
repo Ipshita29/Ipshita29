@@ -71,7 +71,7 @@
 ---
 
 <p align="center">
-  💖 *"Keep building, keep believing — every small step counts."*  
+  💖 *"Keep building, keep believing."*  
 </p>
 
 
