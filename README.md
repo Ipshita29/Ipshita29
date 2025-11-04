@@ -70,6 +70,12 @@
 
 ---
 
+### 🌱 Open Source Journey
+Participating in [Hacktoberfest 2025](https://hacktoberfest.com/) — contributing to open source and learning along the way!
+
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge)](https://hacktoberfest.com/)
+
+---
 <p align="center">
   💖 *"Keep building, keep believing."*  
 </p>
