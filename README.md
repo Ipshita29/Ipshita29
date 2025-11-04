@@ -71,7 +71,7 @@
 ---
 
 ### 🌱 Open Source Journey
-Participating in [Hacktoberfest 2025]
+Hacktoberfest 2025
 [![An image of @ipshita29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ipshita29)](https://holopin.io/@ipshita29)
 
 ---
