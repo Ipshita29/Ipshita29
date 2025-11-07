@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  ⛳︎ Passionate about Web Development, UI/UX, and AI <br/>
-  ☯︎ Exploring ways to make tech creative and meaningful
+  Passionate about Web Development, UI/UX, and AI <br/>
+  Exploring ways to make tech creative and meaningful
 </p>
 
 ---
