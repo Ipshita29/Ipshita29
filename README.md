@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ipshita </h1>
+<h1 align="center">Hi, I'm Ipshita 🌷</h1>
 
 <p align="center">
   Student Developer from India 🇮🇳 <br/>
@@ -27,6 +27,13 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-A5528C?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+### Data & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-5A4FCF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-4B77A9?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-6C4EB6?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
 ### Databases & Auth
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4A1C4F?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -46,7 +53,7 @@
 ## What I’m Working On
 - Building simple and creative web applications  
 - Improving frontend and UI/UX skills  
-- Exploring AI through small, explainable projects  
+- Exploring data visualization and beginner-friendly AI projects  
 
 ---
 
@@ -54,7 +61,6 @@
 - Contribute to Open Source  
 - Build strong real-world projects  
 - Grow as a confident software developer  
-
 
 ---
 
