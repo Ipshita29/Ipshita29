@@ -60,6 +60,16 @@
 
 ---
 
+## Open Source & Experience
+
+- 🌱 **Hacktoberfest Contributor**  
+  Actively contributed to open-source repositories, collaborated with maintainers, and learned real-world Git workflows.
+
+- 💼 **Summer Open Source Internship (3 Months)**  
+  Worked on real projects, improved code quality, fixed issues, and gained hands-on experience with production-level development and collaboration.
+
+---
+
 ## What I’m Working On
 - Building clean, creative, and user-focused web applications  
 - Strengthening frontend fundamentals and UI/UX thinking  
@@ -73,6 +83,12 @@
 - Grow into a confident and skilled software developer  
 
 ---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ipshita29&show_icons=true&theme=rose_pine&hide_border=true" />
+</p>
 
 <p align="center">
   🌸 <em>Keep building. Keep learning. Keep believing.</em> 🌸
