@@ -62,11 +62,11 @@
 
 ## Open Source & Experience
 
-- 🌱 **Hacktoberfest Contributor**  
-  Actively contributed to open-source repositories, collaborated with maintainers, and learned real-world Git workflows.
+- 🌱 <b>Hacktoberfest Contributor</b>  
+  Contributed to open-source repositories, collaborated with maintainers, and learned real-world Git workflows.
 
-- 💼 **Summer Open Source Internship (3 Months)**  
-  Worked on real projects, improved code quality, fixed issues, and gained hands-on experience with production-level development and collaboration.
+- 💼 <b>Summer Open Source Internship (3 Months)</b>  
+  Worked on real projects, fixed issues, reviewed PRs, and gained hands-on experience with production-level development.
 
 ---
 
@@ -84,16 +84,9 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ipshita29&show_icons=true&theme=rose_pine&hide_border=true" />
-</p>
-
 <p align="center">
   🌸 <em>Keep building. Keep learning. Keep believing.</em> 🌸
 </p>
-
 
 
 
