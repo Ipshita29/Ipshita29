@@ -1,8 +1,16 @@
 <h1 align="center">Hi, I'm Ipshita 🌷</h1>
 
 <p align="center">
-  Student Developer from India 🇮🇳 <br/>
-  Interested in Web Development, UI/UX, and beginner-friendly AI projects
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=BD76A6&center=true&vCenter=true&width=520&lines=Student+Developer+from+India;Web+Development+%7C+UI%2FUX+%7C+AI+Beginner;Learning+by+Building+Everyday" />
+</p>
+
+<p align="center">
+  Curious mind exploring <b>Web Development</b>, <b>UI/UX</b>, and <b>beginner-friendly AI</b> <br/>
+  Building projects, learning consistently, and growing one step at a time ✨
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656950-87e6a9c1-1c35-4f9f-8bde-4a4f3f7c1d38.gif" width="400" />
 </p>
 
 ---
@@ -27,11 +35,13 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-A5528C?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### Data & Visualization
+### Data, Visualization & ML
 <p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-5A4FCF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-4B77A9?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-6C4EB6?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-5A4FCF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ### Databases & Auth
@@ -51,22 +61,39 @@
 ---
 
 ## What I’m Working On
-- Building simple and creative web applications  
-- Improving frontend and UI/UX skills  
-- Exploring data visualization and beginner-friendly AI projects  
+- Building clean, creative, and user-focused web applications  
+- Strengthening frontend fundamentals and UI/UX thinking  
+- Learning data visualization and applying ML on real datasets  
 
 ---
 
 ## Goals
-- Contribute to Open Source  
-- Build strong real-world projects  
-- Grow as a confident software developer  
+- Contribute meaningfully to Open Source  
+- Build impactful real-world projects  
+- Grow into a confident and skilled software developer  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ipshita29&show_icons=true&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ipshita29&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ipshita29&theme=rose_pine&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-  ✨ <em>Keep building, one step at a time.</em>
+  🌸 <em>Keep building. Keep learning. Keep believing.</em> 🌸
 </p>
+
 
 
 
