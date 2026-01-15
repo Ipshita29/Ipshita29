@@ -74,22 +74,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ipshita29&show_icons=true&theme=rose_pine&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ipshita29&theme=rose_pine&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ipshita29&theme=rose_pine&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   🌸 <em>Keep building. Keep learning. Keep believing.</em> 🌸
 </p>
