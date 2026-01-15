@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-A36F99?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-A65482?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-BD768D?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-BD768D?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -33,6 +34,7 @@
   <img src="https://img.shields.io/badge/Node.js-893D7B?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-682C63?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-A5528C?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ### Data, Visualization & ML
@@ -46,6 +48,7 @@
 
 ### Databases & Auth
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4A1C4F?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
@@ -87,12 +90,6 @@
 <p align="center">
   🌸 <em>Keep building. Keep learning. Keep believing.</em> 🌸
 </p>
-
-
-
-
-
-
 <!---
 Ipshita29/Ipshita29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
