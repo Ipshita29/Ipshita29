@@ -63,6 +63,20 @@
 
 ---
 
+## 🎀 GitHub Stats
+
+![Ipshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&title_color=ff8fab&text_color=fcd1d1&icon_color=ffb5e8&bg_color=fff0f5)
+
+## 🎀 Current Streak 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=maroongold&background=FFF0F5&border=FFC6FF&stroke=FFBDE6&ring=FF8FAB&fire=FF5C8A&currStreakNum=FF5C8A&sideNums=FF8FAB&currStreakLabel=FF5C8A&sideLabels=FF8FAB&dates=FFBDE6)
+
+## 🎀 Top Languages 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&title_color=ff8fab&text_color=fcd1d1&bg_color=fff0f5)
+
+---
+
 ## Open Source & Experience
 
 - 🌱 <b>Hacktoberfest Contributor</b>  
