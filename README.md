@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Curious mind exploring <b>Web Development</b>, <b>UI/UX</b>, and <b>beginner-friendly AI</b> <br/>
+  Curious mind exploring <b>AI/ML Engineer</b>, <b>Web Development</b>, <b>UI/UX</b>, and <b>beginner-friendly Deep Learning</b> <br/>
   Building projects, learning consistently, and growing one step at a time ✨
 </p>
 
