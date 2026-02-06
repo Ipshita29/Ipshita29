@@ -73,13 +73,6 @@
 
 ---
 
-## What I’m Working On
-- Building clean, creative, and user-focused web applications  
-- Strengthening frontend fundamentals and UI/UX thinking  
-- Learning data visualization and applying ML on real datasets  
-
----
-
 ## Goals
 - Contribute meaningfully to Open Source  
 - Build impactful real-world projects  
