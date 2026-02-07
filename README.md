@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Curious mind exploring <b>AI/ML Engineer</b>, <b>Web Development</b>, <b>UI/UX</b>, and <b>beginner-friendly Deep Learning</b> <br/>
+  Curious mind exploring <b>AI/ML Engineer</b>, <b>Web Development</b>, <b>UI/UX</b> <br/>
   Building projects, learning consistently, and growing one step at a time ✨
 </p>
 
@@ -30,7 +30,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-893D7B?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-682C63?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-893D7B?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-682C63?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-A5528C?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -65,6 +64,9 @@
 
 ## Open Source & Experience
 
+- 🏢 <b>Intern at Lenn Chartered & Co Pvt Ltd (6 Months)</b>  
+  AI & Tech Intern (6 Months) — Starting April 2026
+
 - 🌱 <b>Hacktoberfest Contributor</b>  
   Contributed to open-source repositories, collaborated with maintainers, and learned real-world Git workflows.
 
@@ -75,17 +77,26 @@
 
 <div align="center">
 
-### 🔥 GitHub Streak  
+### GitHub Streak  
 [![Streak](https://streak-stats.demolab.com?user=Ipshita29&theme=rose_pine&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+<div align="center">
+
+### Activity Graph 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ipshita29&theme=tokyo-night)
+
+</div>
+
+---
+
 ## Goals
-- Contribute meaningfully to Open Source  
-- Build impactful real-world projects  
-- Grow into a confident and skilled software developer  
+- Contribute meaningfully to Open Source Projects.
+- Build impactful real-world projects.
+- Grow into a confident and skilled software developer.
 
 ---
 
