@@ -65,7 +65,7 @@
 ## Open Source & Experience
 
 - 🏢 <b>Intern at Lenn Chartered & Co Pvt Ltd (6 Months)</b>  
-  AI & Tech Intern (6 Months) — Starting April 2026
+  AI & Tech Intern (6 Months) — Starting April 2026.
 
 - 🌱 <b>Hacktoberfest Contributor</b>  
   Contributed to open-source repositories, collaborated with maintainers, and learned real-world Git workflows.
