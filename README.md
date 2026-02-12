@@ -93,6 +93,15 @@
 
 ---
 
+## 🚀 Featured Projects
+
+🌸 FableGenie – An e-book creator app. 
+👟 AIRA – AI-intergrated mental health care app. 
+📚 Application-tracker – A tracker Dashboard.  
+🐾 PetBlink – Urgent pet services idea (Currently Working)
+
+---
+
 ## Goals
 - Contribute meaningfully to Open Source Projects.
 - Build impactful real-world projects.
