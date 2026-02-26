@@ -96,10 +96,10 @@
 
 ## 🚀 Featured Projects
 
-🌸 FableGenie – An e-book creator app. 
-👟 AIRA – AI-intergrated mental health care app. 
-📚 Application-tracker – A tracker Dashboard.  
-🐾 PetBlink – Urgent pet services idea (Currently Working)
+- 🌸 FableGenie – An e-book creator app. 
+- 👟 AIRA – AI-intergrated mental health care app. 
+- 📚 CodeAtlas - Complete AI Repository Intelligence System (Currently Working).  
+- 🐾 PetBlink – Urgent pet services idea (Currently Working).
 
 ---
 
