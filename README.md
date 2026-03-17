@@ -78,7 +78,8 @@
 <div align="center">
 
 ### GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ipshita29&theme=rose_pine&hide_border=true)
+
+<img src="https://streak-stats.demolab.com?user=Ipshita29&theme=rose_pine&hide_border=true" />
 
 </div>
 
