@@ -79,7 +79,7 @@
 
 ### GitHub Streak  
 
-<img src="https://streak-stats.demolab.com?user=Ipshita29&theme=rose-pine&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=Ipshita29&theme=rose-pine&hide_border=true&random=123" />
 
 </div>
 
