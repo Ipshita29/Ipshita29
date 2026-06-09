@@ -1,20 +1,13 @@
 <h1 align="center">Hi, I'm Ipshita 🌷</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=BD76A6&center=true&vCenter=true&width=520&lines=Student+Developer+from+India;Web+Development+%7C+UI%2FUX+%7C+AI+Beginner;Learning+by+Building+Everyday" />
-</p>
-
-<p align="center">
-  Curious mind exploring <b>Full Stack Engineer</b>, <b>Mobile App Development</b>,<b>AI/ML</b> , <b>UI/UX</b> <br/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656950-87e6a9c1-1c35-4f9f-8bde-4a4f3f7c1d38.gif" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=BD76A6&center=true&vCenter=true&width=520&lines=Software+Developer+from+India;FullStack+Development+%7C+UI%2FUX+%7C+AI+ML;Learning+by+Building" />
 </p>
 
 <p align="center">
   🐰 Building projects today that my younger self would be proud of.
 </p>
+
 ---
 
 ## Tech Stack
