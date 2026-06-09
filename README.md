@@ -5,14 +5,16 @@
 </p>
 
 <p align="center">
-  Curious mind exploring <b>AI/ML Engineer</b>, <b>Web Development</b>, <b>UI/UX</b> <br/>
-  Building projects, learning consistently, and growing one step at a time ✨
+  Curious mind exploring <b>Full Stack Engineer</b>, <b>Mobile App Development</b>,<b>AI/ML</b> , <b>UI/UX</b> <br/>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656950-87e6a9c1-1c35-4f9f-8bde-4a4f3f7c1d38.gif" width="400" />
 </p>
 
+<p align="center">
+  🐰 Building projects today that my younger self would be proud of.
+</p>
 ---
 
 ## Tech Stack
@@ -32,7 +34,6 @@
   <img src="https://img.shields.io/badge/React%20Native-682C63?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-893D7B?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-682C63?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-A5528C?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
@@ -64,8 +65,8 @@
 
 ## Open Source & Experience
 
-- 🏢 <b>Intern at Lenn Chartered & Co Pvt Ltd</b>  
-  AI & Tech Intern (6 Months) — Starting April 2026.
+- 🏢 <b>Intern at MyFuels</b>  
+  SDE Intern (6 Months).
 
 - 🌱 <b>Hacktoberfest Contributor</b>  
   Contributed to open-source repositories, collaborated with maintainers, and learned real-world Git workflows.
@@ -98,8 +99,8 @@
 
 - 🌸 FableGenie – An e-book creator app. 
 - 👟 AIRA – AI-intergrated mental health care app. 
-- 📚 CodeAtlas - Complete AI Repository Intelligence System (Currently Working).  
-- 🐾 PetBlink – Urgent pet services idea (Currently Working).
+- 📚 CodeAtlas - Complete AI Repository Intelligence System.  
+- 🏎️ All about F1 - Your Pit Stop for Everything F1 (Currently working).
 
 ---
 
