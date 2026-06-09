@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🐰 Building projects today that my younger self would be proud of.
+  Building projects today that my younger self would be proud of.
 </p>
 
 ---
@@ -58,13 +58,13 @@
 
 ## Open Source & Experience
 
-- 🏢 <b>Intern at MyFuels</b>  
+- <b>Intern at MyFuels</b>  
   SDE Intern (6 Months).
 
-- 🌱 <b>Hacktoberfest Contributor</b>  
+- <b>Hacktoberfest Contributor</b>  
   Contributed to open-source repositories, collaborated with maintainers, and learned real-world Git workflows.
 
-- 💼 <b>Summer Open Source Internship (3 Months)</b>  
+- <b>Summer Open Source Internship (3 Months)</b>  
   Worked on real projects, fixed issues, reviewed PRs, and gained hands-on experience with production-level development.
 
 ---
@@ -88,12 +88,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🌸 FableGenie – An e-book creator app. 
-- 👟 AIRA – AI-intergrated mental health care app. 
-- 📚 CodeAtlas - Complete AI Repository Intelligence System.  
-- 🏎️ All about F1 - Your Pit Stop for Everything F1 (Currently working).
+- FableGenie – An e-book creator app. 
+- AIRA – AI-intergrated mental health care app. 
+- CodeAtlas - Complete AI Repository Intelligence System.  
+- All about F1 - Your Pit Stop for Everything F1 (Currently working).
 
 ---
 
