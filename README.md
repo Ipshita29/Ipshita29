@@ -92,7 +92,7 @@
 
 - FableGenie – An e-book creator app. 
 - AIRA – AI-intergrated mental health care app. 
-- CodeAtlas - Complete AI Repository Intelligence System.  
+- Codebase RAG - A RAG to answer your repositry queries.  
 - All about F1 - Your Pit Stop for Everything F1 (Currently working).
 
 ---
