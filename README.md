@@ -71,18 +71,11 @@
 
 <div align="center">
 
-### GitHub Streak  
+### GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Ipshita29&theme=rose-pine&hide_border=true&random=123" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ipshita29&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
 
-</div>
-
----
-
-<div align="center">
-
-### Activity Graph 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ipshita29&theme=tokyo-night)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ipshita29&theme=rose-pine&hide_border=true" />
 
 </div>
 
