@@ -69,23 +69,10 @@
 
 ---
 
-<div align="center">
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ipshita29&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ipshita29&theme=rose-pine&hide_border=true" />
-
-</div>
-
----
-
 ## Featured Projects
 
-- FableGenie – An e-book creator app. 
 - AIRA – AI-intergrated mental health care app. 
-- Codebase RAG - A RAG to answer your repositry queries.  
+- CodeMap - AI-powered repository intelligence platform (Currently working). 
 - All about F1 - Your Pit Stop for Everything F1 (Currently working).
 
 ---
